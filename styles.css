@@ -140,7 +140,7 @@ h2 {
 .menu-acessibilidade{
     position: fixed;
     top:2rem;
-    left:20px;
+    right:20px;
     z-index: 1000;
 }
 .rotacao-botao{
